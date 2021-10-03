@@ -2,6 +2,14 @@
 CS5920 - Machine Learning - Chapter 1 - Algorithm for Euclidean distance 
 
 
+### Setup
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+python calculate_euclidean_distance.py
+
+~~
+
 python calculate_euclidean_distance.py
 Select an option (integer):
 
